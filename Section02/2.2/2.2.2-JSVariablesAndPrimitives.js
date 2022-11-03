@@ -13,8 +13,8 @@ let onlyChild = false;
 let satisfied = false;
 // create a variable called "favoriteThing" that references ANY primitive value
 // print the data type of "favoriteThing"
-let favoriteThing = "sleep;
-console.log(typeof(favoriteThing));
+let favoriteThing = "sleep";
+console.log(typeof favoriteThing);
 // You heard a new song that became your favorite.
 // Reassign the variable "favoriteSong"
 favoriteSong="Bad Romance";
