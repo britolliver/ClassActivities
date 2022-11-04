@@ -24,6 +24,7 @@ console.log(newVariable, typeof newVariable);
 
 // Try to print a variable that does not exist
 // What should we expect to print in the CLI?
+nonexistingVariable;
 console.log(nonexistingVariable);
 
 // Print "greeting" again
