@@ -11,12 +11,12 @@ let catRelationship;
 // string, number, boolean, undefined, null
 
 console.log(
-    typeof catsName,
-    typeof catAge,
-    typeof gremlinFactor,
-    typeof catRelationship,
-    typeof catColor
-)
+  typeof catsName,
+  typeof catAge,
+  typeof gremlinFactor,
+  typeof catRelationship,
+  typeof catColor
+);
 // create a variable that references a template literal
 // inside the template literal, use two of the above variables
 let catInfo = `The cat's name is ${catsName} and he is ${catAge} years old.`;
